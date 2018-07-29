@@ -24,4 +24,37 @@ System.out.println():sout
 맥:Ctrl+R
 윈도우,리눅스:Shift+F10
 
+Day 02
+1. 라인 복사하기 (Line Duplicate)
+Mac : Command + D
+Windows/Linux : Ctrl+D
+2. 라인 삭제하기 (Line Delete)
+Mac : Command+Y
+Windows/Linux : Ctrl+Y
+3. 문자열 라인 합치기 (Join Line) 
+Mac/Windows/Linux : Ctrl+Shift+J
+4. 라인 단위로 옮기기 (Move line, Move Statement)
+Move Line
+Mac : Option + Shift+up(down)
+Win/Linux: Alt+Shit+up(down)
+
+Move Statement  
+Mac : Command+Shift+Up(down), 
+Windows/Linux : Shift+Ctrl+Up(down)
+
+5. Element 단위로 옮기기 (Move Element)
+Move Element right(left)
+Mac : Option+Command+Shift+right(left)
+Win/Linux: Alt+Shift+Ctrl+right(left), 
+
+Day 03
+1. 인자값 즉시 보기 (Parameter info)
+Mac : Command + p
+Win/Linux : Ctrl + p
+2. 코드 구현부 즉시 보기 (Quick Definition)
+Mac : Option + space 
+Win/Linux : Shift+Ctrl+i
+3. Doc 즉시 보기 (Quick Documentation)
+Mac : F1
+Win/Linux : Ctrl+Q
 
