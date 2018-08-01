@@ -58,3 +58,27 @@ Win/Linux : Shift+Ctrl+i
 Mac : F1
 Win/Linux : Ctrl+Q
 
+Day 04
+포커스
+포커스 에디터
+단어별 이동 : option + 방향키
+
+포커스 특수키
+1.포커스 범위 한 단계씩 늘리기
+맥 : Option + 위/아래 화살표
+Win/Linux : 
+- Ctrl + W (위)
+- Shift + Ctrl + W (아래)
+
+2. 포커스 뒤로/앞으로 가기
+Mac : Command + [,]
+Win/Linux : Ctrl + Alt + 좌,우
+
+3.멀티 포커스
+Mac : Option + Option + 아래
+Win/Linux : Ctrl + Ctrl + 아래
+
+4. 오류 라인 자동 포커스 
+Mac: F2
+Win/Linux : F2
+
