@@ -82,3 +82,22 @@ Win/Linux : Ctrl + Ctrl + 아래
 Mac: F2
 Win/Linux : F2
 
+Day 05
+목차
+1. 파일 검색 (Navigate File)
+Mac: Shift + Command + O
+Win/Linux : Shift + Ctrl +N
+2. 메소드 검색 (Navigate Method)
+Mac : Alt + Command + O
+Win/Linux : Shift + Ctrl +Alt + N
+3. Action 검색 (Find Action)
+Mac : Shift + Command + A
+Win/Linux : Shift + Ctrl +A
+4. 최근 열었던 파일 목록 보기 (Recent Files)
+Mac : Command + E
+Win/Linux : Ctrl + E
+5. 최근 수정한 파일 목록 보기 (Recently Changed Files)
+Mac : Command + Shift + E
+Win/Linux : Ctrl + Shift + E
+
+
