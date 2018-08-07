@@ -100,4 +100,18 @@ Win/Linux : Ctrl + E
 Mac : Command + Shift + E
 Win/Linux : Ctrl + Shift + E
 
+Day 06
+자동완성
+1. 스마트 자동 완성(Completion->SmartType)
+Mac : Shift + Ctrl + Space
+Win/Linux : Shift + Ctrl + Space
+2. 스태틱 메소드 자동 완성
+Mac : Shift + Ctrl *2
+Win/Linux : Shift + Ctrl *2
+3. getter/setter/생성자 자동완성
+Mac : Command + N
+Win/Linux : Alt + Insert
+4. Override 자동완성
+Mac : Ctrl + I
+Win/Linux : Ctrl + I
 
