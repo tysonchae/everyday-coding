@@ -6,4 +6,6 @@
 004 : IntelliJ 인텔리제이 사용법 (2018.07.30) 포커스 특수키 사용법
 005 : IntelliJ 인텔리제이 사용법 (2018.08.03) 검색
 006 : IntelliJ 인텔리제이 사용법 (2018.08.05) 자동완성
+007 : IntelliJ 인텔리제이 사용법 (2018.08.07) Live Template
+008 : IntelliJ 인텔리제이 사용법 (2018.08.08) Refactoring Extract
 

@@ -115,3 +115,24 @@ Win/Linux : Alt + Insert
 Mac : Ctrl + I
 Win/Linux : Ctrl + I
 
+Day 07
+Live Template
+1. Live Template 목록 보기
+Mac : Command + J
+Win/Linux : Ctrl + J
+
+
+Day 08
+Refactoring Extract
+1.변수 추출하기 (Variable extract)
+Mac : Command + Option + V
+Win/Linux : Ctrl + Alt + V
+2.파라미터 추출하기 (Parameter Extract)
+Mac : Command+Option+P
+Win/Linux : Ctrl + Alt + P
+3. 메소드 추출하기 (Method Extract)
+Mac : Command + Option + M
+Win/Linux : Ctrl + Alt + M
+4. 이너클래스 추출하기 
+Mac : F6
+Win/Linux : F6
