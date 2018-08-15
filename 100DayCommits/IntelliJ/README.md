@@ -136,3 +136,20 @@ Win/Linux : Ctrl + Alt + M
 4. 이너클래스 추출하기 
 Mac : F6
 Win/Linux : F6
+
+Day 09
+1. 이름 일괄 변경하기
+Mac : Shift + F6
+Win/Linux : Shift + F6
+2. 타입 일괄 변경하기
+Mac : Shift + Command + F6
+Win/Linux : Shift + Ctrl + F6
+3. Import 정리하기
+Mac : Ctrl + Option + O
+Win/Linux : Ctrl + Alt + O
+optimize import on
+4. 코드 자동 정렬하기
+Mac : Command + Option + L
+Win/Linux : Ctrl + Alt + L
+
+
