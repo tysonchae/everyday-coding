@@ -1,2 +1,2 @@
-# everyday-coding
-Every single day study
+# everydayCommit
+Study and commit every single day
